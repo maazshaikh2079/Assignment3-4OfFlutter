@@ -1,6 +1,6 @@
-# flutter_practice
+# flutter_repo
 
-A new Flutter project.
+by Maaz aka Arif CO B 4
 
 ## Getting Started
 
